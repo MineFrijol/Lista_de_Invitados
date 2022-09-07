@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(to right top, #27b391 , #288c70,#2b7255,#35482a );
+    color:(#0d4336);
+    
+}
+#boton_enviar
+{
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+}
+#boton_ordenar
+{
+    display: none;
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+}
+
+input
+{
+    margin: 10px;
+}
+#ver_nombre_con_comas{
+    border:1px solid green;
+    padding:10px;
+    background-color: greenyellow;
+    border-radius:10px;
+    width:50%;
+}
+#ver_nombre_sin_comas{
+    border:1px solid red;
+    padding:10px;
+    background-color:lightcoral;
+    border-radius:10px;
+    width:50%;
+}
